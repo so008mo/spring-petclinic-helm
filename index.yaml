@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  petclinic:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-09T15:26:54.328493872Z"
+    description: A Helm chart for Kubernetes
+    digest: 3aa18697a232f126cd5c722dfc5694bdbddbf4edf14ec4cd921736da9c905eb5
+    name: petclinic
+    type: application
+    urls:
+    - https://github.com/so008mo/spring-petclinic-helm/petclinic-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-09T15:26:54.327377973Z"
